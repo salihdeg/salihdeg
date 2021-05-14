@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Unity.
 - 📫 How to reach me: salihdegirmenci99@gmail.com
 
-[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihdeg)](https://github.com/salihdeg/github-readme-stats)
+[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihdeg&theme=tokyonight&show_icons=true)](https://github.com/salihdeg/github-readme-stats)
   
 <!--
 **salihdeg/salihdeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
