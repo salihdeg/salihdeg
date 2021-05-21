@@ -1,4 +1,4 @@
-### Hi, I'm Salih Değirmenci 👋
+# Hi, I'm Salih Değirmenci 👋
 - 🎒 I am currently attending a Java Camp on kodlama.io
 - 🎓 I finished Engin Demiroğ's **(Qualified) Software Developer Training Camp (C# & Angular)**
 
