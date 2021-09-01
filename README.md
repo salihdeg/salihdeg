@@ -1,5 +1,5 @@
 # Hi, I'm Salih Değirmenci 👋
-- 🎒 I am currently attending a Java Camp on kodlama.io
+- 🔭 I'm currently working on a game project with my team.
 - 🎓 I finished Engin Demiroğ's **(Qualified) Software Developer Training Camp (C# & Angular)**
 
   I'm in the reference list on LinkedIn -> https://bit.ly/3y0C5Wj
@@ -14,6 +14,7 @@
 
 Here are some ideas to get you started:
 
+- 🎒 I am currently attending a Java Camp on kodlama.io
 - 🔭 I’m currently working on ...
 -🌱 I’m currently learning Unity Game Engine and Web Technologies
 - 👯 I’m looking to collaborate on ...
