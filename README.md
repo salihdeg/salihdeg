@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Unity Game Engine and Web Technologies.
 - 🤔 I’m looking for help with Unity.
 - 📫 How to reach me: salihdegirmenci99@gmail.com
+- https://salihdeg.dev
 
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihdeg&theme=tokyonight&show_icons=true)](https://github.com/salihdeg/github-readme-stats)
 
