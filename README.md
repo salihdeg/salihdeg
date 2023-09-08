@@ -1,11 +1,9 @@
-# Hi, I'm Salih Değirmenci 👋
-- 🔭 I'm currently working on a game project with my team.
-- 🎓 I finished Engin Demiroğ's **(Qualified) Software Developer Training Camp (C# & Angular)**
-
-  I'm in the reference list on LinkedIn -> https://bit.ly/3y0C5Wj
-- 🌱 I’m currently learning Unity Game Engine and Web Technologies.
+# Hi, I'm Salih Değirmenci, a Passionate Game Developer 👋
+- 🔭 I'm currently working on game projects with my friends.
+- 🌱 I’m currently learning Unity Game Engine.
+- 🎓 I’m teaching Unity.
 - 🤔 I’m looking for help with Unity.
-- 📫 How to reach me: salihdegirmenci99@gmail.com
+- 📫 How to reach me: contact@salihdeg.dev
 - https://salihdeg.dev
 
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihdeg&theme=tokyonight&show_icons=true)](https://github.com/salihdeg/github-readme-stats)
