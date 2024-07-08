@@ -1,8 +1,5 @@
-# Hi, I'm Salih Değirmenci, a Passionate Game Developer 👋
-- 🔭 I'm currently working on game projects with my friends.
-- 🌱 I’m currently learning Unity Game Engine.
-- 🎓 I’m teaching Unity.
-- 🤔 I’m looking for help with Unity.
+# Hi, I'm Salih Değirmenci, a Passionate Developer 👋
+
 - 📫 How to reach me: contact@salihdeg.dev
 - https://salihdeg.dev
 
@@ -14,6 +11,11 @@
 **salihdeg/salihdeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🔭 I'm currently working on game projects with my friends.
+- 🌱 I’m currently learning Unity Game Engine.
+- 🎓 I’m teaching Unity.
+- 🤔 I’m looking for help with Unity.
 
 - 🎒 I am currently attending a Java Camp on kodlama.io
 - 🔭 I’m currently working on ...
